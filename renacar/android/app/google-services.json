@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522109851182",
+    "project_id": "isocar-2ceea",
+    "storage_bucket": "isocar-2ceea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522109851182:android:d5eadf55cd3e39fa49b1bf",
+        "android_client_info": {
+          "package_name": "com.example.renacar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522109851182-edn2b2g43s1dv1t2132d6absf609bcv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWYy_G6LwlbYTrogbjSlXOZXT8s1EyP4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522109851182-edn2b2g43s1dv1t2132d6absf609bcv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
